@@ -29,19 +29,6 @@
             <url>http://opensource.org/licenses/MIT</url>
         </license>
     </licenses>
-    <dependencies>
-        <dependency>
-            <!-- https://mvnrepository.com/artifact/org.json/json -->
-            <groupId>org.json</groupId>
-            <artifactId>json</artifactId>
-            <version>20171018</version>
-        </dependency>
-        <dependency>
-            <groupId>org.jenkins-ci.plugins</groupId>
-            <artifactId>structs</artifactId>
-            <version>1.14</version>
-        </dependency>
-    </dependencies>
     <scm>
         <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
